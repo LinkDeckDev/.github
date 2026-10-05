@@ -25,27 +25,28 @@ The current prototype direction combines:
 - profile-based digital identity
 - a small, portable enclosure designed around real hardware constraints
 
-The project is currently in the **prototype stage**.
+The project is currently in the **digital preparation before hardware arrival** phase.
 
 ## Current focus
 
-We are working on the foundations required for the first complete physical prototype:
+We are preparing the digital foundation needed before physical validation begins:
 
-- mechanical validation
-- enclosure fit and finish
-- display and touch bring-up
-- NFC integration
-- USB-powered firmware development
-- power measurements before battery selection
-- early UI and interaction design
+- project documentation
+- public GitHub structure
+- UI/UX planning
+- prototype test and acceptance planning
+- branding and content preparation
+- public/private disclosure boundaries
+
+Physical bring-up, power measurements and hardware validation will begin when the first prototype components and enclosure are available.
 
 ## Public repositories
 
 | Repository | Purpose |
 | --- | --- |
-| [linkdeck](https://github.com/LinkDeckDev/linkdeck) | Project overview, public roadmap and high-level information |
+| [linkdeck](https://github.com/LinkDeckDev/linkdeck) | Project overview and public status |
 | [linkdeck-docs](https://github.com/LinkDeckDev/linkdeck-docs) | Public documentation and development logs |
-| [linkdeck-examples](https://github.com/LinkDeckDev/linkdeck-examples) | Public examples and future SDK samples |
+| [linkdeck-examples](https://github.com/LinkDeckDev/linkdeck-examples) | Future public examples and SDK/API samples |
 
 ## Build in public
 
@@ -58,7 +59,7 @@ We plan to share:
 - UI experiments
 - hardware milestones
 - lessons learned
-- public examples
+- selected public examples
 - selected technical documentation
 
 Some parts of the project will remain private during development, including production CAD, complete firmware, manufacturing data, supplier-sensitive information and provisioning/security details.
@@ -75,9 +76,9 @@ A red **Special Edition** identity is planned for a future product variant.
 
 The current path is:
 
-**Prototype → Functional validation → Product refinement → Pre-production → Launch preparation**
+**Digital preparation → Physical prototype validation → Product refinement → Pre-production → Launch preparation**
 
-A crowdfunding campaign, including a possible **Kickstarter launch**, will only be considered after the hardware and user experience have been validated.
+Crowdfunding work is currently paused until the physical prototype and user experience are validated. **Indiegogo** is the primary platform direction, with **BackerKit** retained as Plan B.
 
 ## Status
 
