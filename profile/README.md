@@ -78,7 +78,7 @@ The current path is:
 
 **Digital preparation → Physical prototype validation → Product refinement → Pre-production → Launch preparation**
 
-Crowdfunding work is currently paused until the physical prototype and user experience are validated. **Indiegogo** is the primary platform direction, with **BackerKit** retained as Plan B.
+Crowdfunding work is currently paused until the physical prototype and user experience are validated. Any future crowdfunding platform decision will be made after that validation work, rather than being treated as final during the current prototype phase.
 
 ## Status
 
